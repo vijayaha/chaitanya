@@ -297,6 +297,7 @@ longer:
 
 
 Platform specific notes
+
 -----------------------
 
 (Some of these may no longer apply.  If you find you can build Python
