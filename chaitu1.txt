@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Adding new line in local before pulling from remote
 Test Chaitu
+=======
+Test Chaitu
+Adding new line
+>>>>>>> 9a5c5e914d1f49828e28b6fc9f683bb77a084737
